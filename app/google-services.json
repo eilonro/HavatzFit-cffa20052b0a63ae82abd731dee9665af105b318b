@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "34724573638",
+    "firebase_url": "https://havatzfit.firebaseio.com",
+    "project_id": "havatzfit",
+    "storage_bucket": "havatzfit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34724573638:android:0ba6f0a2ce34b4ff",
+        "android_client_info": {
+          "package_name": "com.hackeruproj.android.havatzfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34724573638-ipu6a19fgu3snqhu9igo38du22a36p7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackeruproj.android.havatzfit",
+            "certificate_hash": "C68D351019946F6B65FF7EDAEE78C0025D1130E5"
+          }
+        },
+        {
+          "client_id": "34724573638-3rbhcoa9pj9jgipp3lb4ulodu8drqnk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8NL43tIO8Dn6JvNStSwA3f5SfXwMxQXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34724573638-3rbhcoa9pj9jgipp3lb4ulodu8drqnk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

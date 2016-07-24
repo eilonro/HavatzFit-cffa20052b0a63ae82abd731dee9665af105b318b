@@ -1,0 +1,30 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--END-->
+
+    <!--MLogInPage headline size-->
+    <dimen name="fheadLineSize">25sp</dimen>
+    <dimen name="fheadLineMargBott">20dp</dimen>
+    <!--END-->
+
+     <!--                   =========WIDGET TOOL BAR===========                                  -->
+    <!--Widget Profile Picture width height and to the right-->
+    <dimen name="picWidth">65dp</dimen>
+    <dimen name="picHeight">55dp</dimen>
+    <dimen name="picToRightText">10dp</dimen>
+    <!--END-->
+
+    <!--UserName and Email text sizez-->
+    <dimen name="txtUserNameSize">25sp</dimen>
+    <dimen name="txtUserMail">15sp</dimen>
+    <!--END-->
+
+    <!--UserWidget ToolBar Padding-->
+
+    <dimen name="userBarPadding">2dp</dimen>
+    <!--END-->
+
+    <!--                   =========END OF WIDGET TOOL BAR===========                                  -->
+</resources>

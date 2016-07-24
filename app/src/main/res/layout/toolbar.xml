@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cstmToolID"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/toolbarProfPicID"
+            android:layout_width="@dimen/picWidth"
+            android:layout_height="@dimen/picHeight"
+            android:layout_marginRight="@dimen/picToRightText"
+            android:contentDescription="profile picture"
+            android:background="@drawable/defualt_user"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+        <!--needs font family in the texts! -> for Eilon-->
+        <TextView
+            android:id="@+id/userNameID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UserName"
+            android:textSize="@dimen/txtUserNameSize"
+            android:layout_toEndOf="@+id/toolbarProfPicID"
+            />
+        <TextView
+            android:id="@+id/userMailID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/toolbarProfPicID"
+            android:layout_below="@+id/userNameID"
+            android:text="UserMail"/>
+
+
+</merge>

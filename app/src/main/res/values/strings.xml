@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HavatzFit</string>
+    <string name="cncFailMsg">Connection to Google Account failed</string>
+    <string name="fHeadLine">Welcome to HavtzFit</string>
+</resources>
